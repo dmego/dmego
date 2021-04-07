@@ -1,7 +1,8 @@
 <h1 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm <a href="https://i.dmego.me/" target="_blank"> Dmego </a> </h1>
 <h3 align="center">A passionate backend developer from China</h3>
 </br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true" />
 
 ## ⚡️ A Few Quick Facts
 <ul>
@@ -28,5 +29,4 @@
 <!--END_SECTION:waka-->
 
 </br>
-<a href="https://github.com/dmego" alt="https://github.com/dmego"><img src="https://img.shields.io/static/v1?style=flat&label=Create%20By&message=dmego&color=orange"></a>
-<a> <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" /> </a>
+<a href="https://github.com/dmego" alt="https://github.com/dmego"><img src="https://img.shields.io/static/v1?style=flat&label=Create%20By&message=dmego&color=orange">  <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" /> </a>
