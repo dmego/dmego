@@ -11,18 +11,6 @@
     <li>📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
     <li>📫 How to reach me <strong>dmeago@gmail.com</strong>.</li>
 </ul>
-</br>
-
-## 🚀 Some Tools I Use
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-</svg>
-</p>
-</br>
 
 ## 🌗 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -30,6 +18,16 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+#### Languages and Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />  
+</p>
 
 </br>
 <a href="https://github.com/dmego" alt="https://github.com/dmego"><img src="https://img.shields.io/static/v1?style=flat&label=Create%20By&message=dmego&color=orange">  <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" /> </a>
