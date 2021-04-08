@@ -2,17 +2,15 @@
 <h3 align="center">A passionate backend developer from China</h3>
 </br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true" />
 
-## ⚡️ A Few Quick Facts
-<ul>
-    <li> 🌱 I’m currently learning <strong>Go、Docker、Kubernetes</strong>.</li>
-    <li> 👯 I’m looking to collaborate on <strong>anything free and open source</strong>.</li>
-    <li>📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
-    <li>📫 How to reach me <strong>dmeago@gmail.com</strong>.</li>
-</ul>
+- 🌱 I’m currently learning **Go、Docker、Kubernetes**
 
-## 🌗 Weekly Development Breakdown
+- 👯 I’m looking to collaborate on **anything free and open source**
+
+- 📝 I regulary write articles on [https://dmego.me](https://dmego.me)
+
+- 📫 How to reach me **dmeago@gmail.com**
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-82-blue)
 
@@ -76,16 +74,3 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-#### Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="25" height="25" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />  
-</p>
-
-</br>
-<a href="https://github.com/dmego" alt="https://github.com/dmego"><img src="https://img.shields.io/static/v1?style=flat&label=Create%20By&message=dmego&color=orange">  <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" /> </a>
