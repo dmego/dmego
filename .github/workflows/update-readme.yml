@@ -13,3 +13,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          user_name: 'dmego'
+          user_email: 'dmeago@gmail.com'
