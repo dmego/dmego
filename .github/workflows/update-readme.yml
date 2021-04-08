@@ -10,8 +10,11 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: dmego/waka-readme-stats@gitconfig
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          user_name: 'dmego'
-          user_email: 'dmeago@gmail.com'
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "zh"
