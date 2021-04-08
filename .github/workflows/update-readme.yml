@@ -17,4 +17,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
+          COMMIT_BY_ME: "True"
           LOCALE: "zh"
