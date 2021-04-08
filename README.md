@@ -2,14 +2,18 @@
 <h3 align="center">A passionate backend developer from China</h3>
 </br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true" />
 
-- 🌱 I’m currently learning **Go、Docker、Kubernetes**
+## ⚡️ A Few Quick Facts
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+<ul>
+    <li> 🌱 I’m currently learning <strong>Go、Docker、Kubernetes</strong>.</li>
+    <li> 👯 I’m looking to collaborate on <strong>anything free and open source</strong>.</li>
+    <li>📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
+    <li>📫 How to reach me <strong>dmeago@gmail.com</strong>.</li>
+</ul>
 
-- 📝 I regulary write articles on [https://dmego.me](https://dmego.me)
-
-- 📫 How to reach me **dmeago@gmail.com**
+## 🌗 Development Breakdown
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-82-blue)
