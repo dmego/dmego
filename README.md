@@ -18,11 +18,11 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-227228%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-227469%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 60 Contributions in the Year 2021
+> 🏆 62 Contributions in the Year 2021
  > 
 > 📦 231.7 kB Used in Github's Storage 
  > 
@@ -35,10 +35,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-🌆 Daytime    42 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
-🌃 Evening    50 commits     █████████░░░░░░░░░░░░░░░░   37.59% 
-🌙 Night      26 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55%
+🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    44 commits     ████████░░░░░░░░░░░░░░░░░   32.59% 
+🌃 Evening    50 commits     █████████░░░░░░░░░░░░░░░░   37.04% 
+🌙 Night      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26%
 
 ```
 
