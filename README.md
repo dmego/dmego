@@ -1,17 +1,16 @@
-<h1 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm <a href="https://i.dmego.me/" target="_blank"> Dmego </a> </h1>
+<h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Dmego </h2>
 <h3 align="center">A passionate backend developer from China</h3>
-</br>
 
-## ⚡️ A Few Quick Facts
+### ⚡️ A Few Quick Facts
 
 <ul>
-    <li> 🌱 I’m currently learning <strong>Go、Docker、Kubernetes</strong>.</li>
-    <li> 👯 I’m looking to collaborate on <strong>anything free and open source</strong>.</li>
-    <li>📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
-    <li>📫 How to reach me <strong>dmeago@gmail.com</strong>.</li>
+    <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
+    <li> 👯 I’m looking to collaborate on anything free and open source.</li>
+    <li> 📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
+    <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
 
-## 🌗 Development Breakdown
+### 🌗 Development Breakdown
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
