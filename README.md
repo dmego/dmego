@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from China</h3>
 </br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true" />
-
 ## ⚡️ A Few Quick Facts
 
 <ul>
@@ -19,6 +17,8 @@
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228236%20lines%20of%20code-blue)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 **🐱 My Github Data** 
 
