@@ -6,7 +6,7 @@
 <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
     <li> 👯 I’m looking to collaborate on anything free and open source.</li>
-    <li> 📝 I regulary write articles on <a href="https://dmego.me">https://dmego.me</a>.</li>
+    <li> 📝 I regulary write articles on <a href="https://dmego.cn">https://dmego.cn</a>.</li>
     <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
 
