@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228932%20lines%20of%20code-blue)
