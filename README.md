@@ -1,6 +1,9 @@
 <h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Dmego </h2>
 <h3 align="center">A passionate backend developer from China</h3>
 
+
+---
+
 ### ⚡️ A Few Quick Facts
 
 <ul>
@@ -68,3 +71,8 @@ Mac                      21 hrs 24 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
+
+---
+
+[![https://vercel.com/dmego/readme-stats](https://cdn.jsdelivr.net/gh/dmego/images/img/powered-by-vercel.svg)](https://vercel.com/dmego/readme-stats)
+
