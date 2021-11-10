@@ -17,11 +17,11 @@
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243208%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243308%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 351 Contributions in the Year 2021
+> 🏆 353 Contributions in the Year 2021
  > 
 > 📦 226.1 kB Used in Github's Storage 
  > 
@@ -34,10 +34,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-🌆 Daytime    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-🌃 Evening    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.03% 
-🌙 Night      128 commits    ████████████░░░░░░░░░░░░░   50.79%
+🌞 Morning    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+🌆 Daytime    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+🌃 Evening    53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
+🌙 Night      128 commits    ████████████░░░░░░░░░░░░░   50.59%
 
 ```
 
