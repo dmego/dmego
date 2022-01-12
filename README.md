@@ -19,19 +19,19 @@
 [![wakatime](https://wakatime.com/badge/user/d60a93cb-3bd3-4d85-a9a8-8f81e41616d8.svg)](https://wakatime.com/@d60a93cb-3bd3-4d85-a9a8-8f81e41616d8)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-249238%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253246%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 15 Contributions in the Year 2022
+> 🏆 18 Contributions in the Year 2022
  > 
-> 📦 227.5 kB Used in Github's Storage 
+> 📦 227.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -50,13 +50,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 50 mins      █████████████████████████   100.0%
+Other                    20 hrs 30 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  14 hrs 50 mins      █████████████████████████   100.0%
+Browser                  20 hrs 30 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 50 mins      █████████████████████████   100.0%
+Mac                      20 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
