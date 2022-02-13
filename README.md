@@ -16,8 +16,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
-[![wakatime](https://wakatime.com/badge/user/d60a93cb-3bd3-4d85-a9a8-8f81e41616d8.svg)](https://wakatime.com/@d60a93cb-3bd3-4d85-a9a8-8f81e41616d8)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2043%20mins-blue)
 
