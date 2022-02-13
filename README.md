@@ -3,16 +3,16 @@
 
 ### ⚡️ A Few Quick Facts
 
+<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
 <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
-    <li> 👯 I’m looking to collaborate on anything free and open source.</li>
+    <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="https://dmego.cn">https://dmego.cn</a>.</li>
     <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
 
 ### 🌗 Development Breakdown
-
-<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
