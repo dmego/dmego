@@ -12,9 +12,9 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
-
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
+<img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 [![wakatime](https://wakatime.com/badge/user/d60a93cb-3bd3-4d85-a9a8-8f81e41616d8.svg)](https://wakatime.com/@d60a93cb-3bd3-4d85-a9a8-8f81e41616d8)
 
