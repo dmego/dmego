@@ -17,11 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%209%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 111 Contributions in the Year 2022
+> 🏆 114 Contributions in the Year 2022
  > 
 > 📦 219.3 kB Used in GitHub's Storage 
  > 
@@ -34,10 +36,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-🌆 Daytime    114 commits    ██████░░░░░░░░░░░░░░░░░░░   24.46% 
-🌃 Evening    121 commits    ██████░░░░░░░░░░░░░░░░░░░   25.97% 
-🌙 Night      154 commits    ████████░░░░░░░░░░░░░░░░░   33.05%
+🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
+🌆 Daytime    113 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67% 
+🌃 Evening    115 commits    ██████░░░░░░░░░░░░░░░░░░░   25.11% 
+🌙 Night      153 commits    ████████░░░░░░░░░░░░░░░░░   33.41%
 
 ```
 
@@ -66,7 +68,7 @@ Mac                      33 hrs 59 mins      ███████████�
 ```
 
 
- Last Updated on 09/03/2022 20:15:11 UTC
+ Last Updated on 10/03/2022 20:17:24 UTC
 <!--END_SECTION:waka-->
 
 ---
