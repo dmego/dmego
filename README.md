@@ -17,13 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 379 Contributions in the Year 2022
+> 🏆 380 Contributions in the Year 2022
  > 
 > 📦 220.5 kB Used in GitHub's Storage 
  > 
@@ -33,8 +33,40 @@
  > 
 > 🔑 11 Private Repositories  
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 04/09/2022 08:30:25 UTC
+```text
+🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+🌆 Daytime    183 commits    ████████░░░░░░░░░░░░░░░░░   34.4% 
+🌃 Evening    128 commits    ██████░░░░░░░░░░░░░░░░░░░   24.06% 
+🌙 Night      137 commits    ██████░░░░░░░░░░░░░░░░░░░   25.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     10 hrs 9 mins       ███████████████████████░░   93.82% 
+XML                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+
+🔥 Editors: 
+IntelliJ                 6 hrs 14 mins       ██████████████░░░░░░░░░░░   57.6% 
+VS Code                  4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   42.4%
+
+💻 Operating System: 
+Mac                      10 hrs 49 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 05/09/2022 08:32:02 UTC
 <!--END_SECTION:waka-->
 
 ---
