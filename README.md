@@ -17,13 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 518 Contributions in the Year 2022
+> 🏆 519 Contributions in the Year 2022
  > 
 > 📦 221.5 kB Used in GitHub's Storage 
  > 
@@ -50,18 +50,23 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     14 mins             █████████████████████████   100.0%
+Java                     31 mins             ███████████████████████░░   94.68% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-IntelliJ                 14 mins             █████████████████████████   100.0%
+VS Code                  16 mins             ████████████░░░░░░░░░░░░░   50.49% 
+IntelliJ                 16 mins             ████████████░░░░░░░░░░░░░   49.51%
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.0%
+Mac                      33 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/12/2022 08:28:48 UTC
+ Last Updated on 30/12/2022 08:29:07 UTC
 <!--END_SECTION:waka-->
 
 ---
