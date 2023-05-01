@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 169 Contributions in the Year 2023
+> 🏆 170 Contributions in the Year 2023
  > 
 > 📦 222.1 kB Used in GitHub's Storage 
  > 
@@ -50,22 +50,18 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 37 mins       █████████████████░░░░░░░░   68.43% 
-XML                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   27.01% 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 3 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/04/2023 08:25:04 UTC
+ Last Updated on 01/05/2023 08:25:17 UTC
 <!--END_SECTION:waka-->
 
 ---
