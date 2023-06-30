@@ -17,13 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C117%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C117%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 243 Contributions in the Year 2023
+> 🏆 244 Contributions in the Year 2023
  > 
 > 📦 222.1 kB Used in GitHub's Storage 
  > 
@@ -50,18 +50,20 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     26 mins             ███████████████████████░░   94.03% 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             ███████████████████████░░   94.03% 
+IntelliJ                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/06/2023 08:28:42 UTC
+ Last Updated on 30/06/2023 08:28:35 UTC
 <!--END_SECTION:waka-->
 
 ---
