@@ -17,15 +17,15 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C149%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C154%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 230.3 kB Used in GitHub's Storage 
  > 
-> 🏆 364 Contributions in the Year 2024
+> 🏆 367 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -33,39 +33,8 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-🌆 Daytime                1106 commits        █████████████░░░░░░░░░░░░   50.78 % 
-🌃 Evening                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌙 Night                  653 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    8 hrs 52 mins       █████████████████░░░░░░░░   69.77 % 
-C                        2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-C++                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-C/C++                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🔥 Editors: 
-Edge                     10 hrs 59 mins      ██████████████████████░░░   86.44 % 
-VS Code                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-CLion                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-
-💻 Operating System: 
-Mac                      12 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09/12/2024 08:32:43 UTC
+ Last Updated on 10/12/2024 08:31:41 UTC
 <!--END_SECTION:waka-->
 
 ---
