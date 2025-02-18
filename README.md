@@ -17,13 +17,15 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C217%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C218%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 230.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 50 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -35,9 +37,9 @@
 
 ```text
 🌞 Morning                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-🌆 Daytime                1179 commits        █████████████░░░░░░░░░░░░   52.24 % 
-🌃 Evening                248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-🌙 Night                  653 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+🌆 Daytime                1180 commits        █████████████░░░░░░░░░░░░   52.26 % 
+🌃 Evening                248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌙 Night                  653 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
 ```
 
 
@@ -47,17 +49,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/02/2025 08:29:58 UTC
+ Last Updated on 18/02/2025 08:28:27 UTC
 <!--END_SECTION:waka-->
 
 ---
