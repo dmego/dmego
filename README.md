@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.3%20thousand%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 233.0 kB Used in GitHub's Storage 
  > 
-> 🏆 408 Contributions in the Year 2025
+> 🏆 409 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -37,9 +37,9 @@
 
 ```text
 🌞 Morning                227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-🌆 Daytime                1451 commits        ██████████████░░░░░░░░░░░   54.86 % 
-🌃 Evening                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-🌙 Night                  705 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                1452 commits        ██████████████░░░░░░░░░░░   54.88 % 
+🌃 Evening                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌙 Night                  705 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 ```
 
 
@@ -49,17 +49,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 5 mins        ████████████████░░░░░░░░░   64.35 % 
+HTML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2025 08:31:15 UTC
+ Last Updated on 12/09/2025 01:15:05 UTC
 <!--END_SECTION:waka-->
 
 ---
