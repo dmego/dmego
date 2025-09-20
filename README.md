@@ -17,15 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C266%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 233.0 kB Used in GitHub's Storage 
  > 
-> 🏆 418 Contributions in the Year 2025
+> 🏆 419 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -34,7 +32,7 @@
 > 🔑 15 Private Repositories 
  > 
 
- Last Updated on 19/09/2025 08:31:24 UTC
+ Last Updated on 20/09/2025 08:28:29 UTC
 <!--END_SECTION:waka-->
 
 ---
