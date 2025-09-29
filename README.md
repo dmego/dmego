@@ -17,13 +17,15 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C270%20hrs%2032%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 233.0 kB Used in GitHub's Storage 
  > 
-> 🏆 429 Contributions in the Year 2025
+> 🏆 430 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -31,8 +33,35 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 28/09/2025 08:27:28 UTC
+```text
+🌞 Morning                229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+🌆 Daytime                1469 commits        ██████████████░░░░░░░░░░░   55.10 % 
+🌃 Evening                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+🌙 Night                  705 commits         ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 52 mins       █████████████████████████   98.78 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/09/2025 08:35:12 UTC
 <!--END_SECTION:waka-->
 
 ---
