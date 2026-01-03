@@ -17,15 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C421%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.27%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 308.5 kB Used in GitHub's Storage 
+> 📦 308.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,37 +31,8 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-🌆 Daytime                1602 commits        ██████████████░░░░░░░░░░░   55.64 % 
-🌃 Evening                307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌙 Night                  716 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
-Python                   2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-YAML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 41 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 41 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/01/2026 08:37:27 UTC
+ Last Updated on 03/01/2026 08:35:21 UTC
 <!--END_SECTION:waka-->
 
 ---
