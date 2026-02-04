@@ -6,10 +6,11 @@
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
-    <li> 👯 I’m looking to collaborate on anything open source.</li>
-    <li> 📝 I regulary write articles on <a href="https://dmego.cn">https://dmego.cn</a>.</li>
-    <li> ⚡ Fun fact: I ❤️ 😻.</li>
+  <li>🌱 I’m currently learning AI, LLMs, and Agent-related technologies.</li>
+  <li>🧠 Exploring AI agents, tool calling, and workflow automation.</li>
+  <li>👯 I’m open to collaborating on AI, Agent, and open-source projects.</li>
+  <li>My homepage: <a href="https://i.dmego.cn">https://i.dmego.cn</a></li>
+  <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
 
 ### 🌗 Development Breakdown
