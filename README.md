@@ -13,6 +13,10 @@
   <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
 
+### 🔑 LLM Token Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/dmego/svg)](https://tokscale.ai/u/dmego)
+
 ### 🌗 Development Breakdown
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
