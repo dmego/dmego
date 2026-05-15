@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C906%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C913%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -30,7 +30,7 @@
 
 > 📦 316.6 kB Used in GitHub's Storage 
  > 
-> 🏆 535 Contributions in the Year 2026
+> 🏆 537 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -38,41 +38,8 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌆 Daytime                1936 commits        █████████████░░░░░░░░░░░░   53.45 % 
-🌃 Evening                424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌙 Night                  751 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    26 hrs 17 mins      ███████████████░░░░░░░░░░   59.46 % 
-Markdown                 10 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Java                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Python                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-
-🔥 Editors: 
-Edge                     18 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.50 % 
-VS Code                  15 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.40 % 
-iTerm2                   7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Unknown Editor           1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-💻 Operating System: 
-Mac                      44 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 10:27:26 UTC
+ Last Updated on 15/05/2026 10:33:32 UTC
 <!--END_SECTION:waka-->
 
 ---
