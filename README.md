@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C008%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C014%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -30,7 +30,7 @@
 
 > 📦 316.6 kB Used in GitHub's Storage 
  > 
-> 🏆 561 Contributions in the Year 2026
+> 🏆 563 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,10 +41,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                722 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-🌆 Daytime                2049 commits        █████████████░░░░░░░░░░░░   51.39 % 
-🌃 Evening                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-🌙 Night                  762 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌞 Morning                722 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+🌆 Daytime                2051 commits        █████████████░░░░░░░░░░░░   51.42 % 
+🌃 Evening                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+🌙 Night                  762 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 
 
@@ -54,25 +54,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 17 mins      █████████████████░░░░░░░░   66.96 % 
-Markdown                 9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Java                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    22 hrs 6 mins       ████████████████░░░░░░░░░   65.06 % 
+Markdown                 9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Java                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Edge                     18 hrs 16 mins      █████████████░░░░░░░░░░░░   52.56 % 
-iTerm2                   9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-VS Code                  6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Terminal                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Edge                     16 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.18 % 
+iTerm2                   10 hrs              ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+VS Code                  6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Terminal                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      34 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/05/2026 11:47:27 UTC
+ Last Updated on 28/05/2026 11:44:31 UTC
 <!--END_SECTION:waka-->
 
 ---
