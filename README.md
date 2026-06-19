@@ -30,7 +30,7 @@
 
 > 📦 316.6 kB Used in GitHub's Storage 
  > 
-> 🏆 605 Contributions in the Year 2026
+> 🏆 607 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,10 +41,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                722 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-🌆 Daytime                2093 commits        █████████████░░░░░░░░░░░░   51.92 % 
+🌞 Morning                722 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌆 Daytime                2095 commits        █████████████░░░░░░░░░░░░   51.95 % 
 🌃 Evening                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-🌙 Night                  762 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+🌙 Night                  762 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 ```
 
 
@@ -54,25 +54,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.40 % 
-Other                    12 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Java                     8 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Markdown                 16 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   41.79 % 
+Other                    15 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.72 % 
+Java                     6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-MicrosoftEdge            9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-VS Code                  8 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-iTerm2                   8 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Codex CLI                5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-TextMate                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+MicrosoftEdge            10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+iTerm2                   7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+VS Code                  6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Codex CLI                4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+TextMate                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 💻 Operating System: 
-Mac                      40 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 11:55:45 UTC
+ Last Updated on 19/06/2026 12:14:57 UTC
 <!--END_SECTION:waka-->
 
 ---
