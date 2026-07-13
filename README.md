@@ -15,7 +15,7 @@
 
 ### 🔑 LLM Token Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/dmego/svg?template=graph&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/dmego)
+[![Tokscale Stats](https://tokscale.ai/api/embed/dmego/svg?template=graph&rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/dmego)
 
 ### 🌗 Development Breakdown
 
