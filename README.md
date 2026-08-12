@@ -30,9 +30,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.7 kB Used in GitHub's Storage 
+> 📦 317.9 kB Used in GitHub's Storage 
  > 
-> 🏆 829 Contributions in the Year 2026
+> 🏆 834 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,10 +43,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1211 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-🌆 Daytime                2513 commits        ████████████░░░░░░░░░░░░░   48.61 % 
-🌃 Evening                590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-🌙 Night                  856 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌞 Morning                1212 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+🌆 Daytime                2517 commits        ████████████░░░░░░░░░░░░░   48.64 % 
+🌃 Evening                590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌙 Night                  856 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 
 
@@ -56,50 +56,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 46 mins      ███████████░░░░░░░░░░░░░░   42.05 % 
-Python                   6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Vue                      4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Other                    10 hrs 10 mins      ████████████░░░░░░░░░░░░░   46.38 % 
+Python                   3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Vue                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-MicrosoftEdge            8 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Codex CLI                8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Edge                     5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-VS Code                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-iTerm2                   2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+MicrosoftEdge            5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Codex CLI                5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Edge                     4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+VS Code                  3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Claude Code              1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 💻 Operating System: 
-Mac                      32 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 4 mins (55.14%)
+⏱ AI Coding Time: 10 hrs 49 mins (49.33%)
 
-✍️ 14,805 lines written by AI, 218 lines written by hand (98.55% AI-written)
+✍️ 6,414 lines written by AI, 185 lines written by hand (97.2% AI-written)
 
-🔤 603,558,305 Input Tokens, 2,813,041 Output Tokens
+🔤 314,853,923 Input Tokens, 2,125,203 Output Tokens
 
-💵 $927.11 Estimated AI Cost This Week
+💵 $515.01 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 374 AI Prompts
+🧠 37 AI Sessions, 277 AI Prompts
 
-Glm                      5,759 lines         █████████░░░░░░░░░░░░░░░░   36.53 % 
-GPT                      5,336 lines         ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Claude                   2,795 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Deepseek                 1,873 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Glm                      2,765 lines         ██████████░░░░░░░░░░░░░░░   38.22 % 
+GPT                      2,596 lines         █████████░░░░░░░░░░░░░░░░   35.89 % 
+Deepseek                 1,873 lines         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
-📄 Detailed Prompter — average 858 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.35% of changed lines were hand-edited
+🤖 AI-Driven — 97.2% of written lines came from AI
+📄 Detailed Prompter — average 983 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 09:06:57 UTC
+ Last Updated on 12/08/2026 09:19:28 UTC
 <!--END_SECTION:waka-->
 
 ---
