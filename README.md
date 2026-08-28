@@ -22,31 +22,31 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C230%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-411%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-418%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 318.5 kB Used in GitHub's Storage 
+> 📦 318.8 kB Used in GitHub's Storage 
  > 
-> 🏆 909 Contributions in the Year 2026
+> 🏆 924 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1247 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                2543 commits        ████████████░░░░░░░░░░░░░   48.40 % 
-🌃 Evening                605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-🌙 Night                  859 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+🌞 Morning                1249 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌆 Daytime                2548 commits        ████████████░░░░░░░░░░░░░   48.37 % 
+🌃 Evening                609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌙 Night                  862 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 ```
 
 
@@ -56,51 +56,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 8 mins       █████████████████░░░░░░░░   68.47 % 
-Markdown                 7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Python                   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-TOML                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Other                    37 hrs 38 mins      █████████████████░░░░░░░░   67.24 % 
+Markdown                 4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Python                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TOML                     3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+JavaScript               3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-MicrosoftEdge            17 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.47 % 
-Edge                     15 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-VS Code                  5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Codex Vscode             4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Terminal                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+MicrosoftEdge            20 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+Edge                     14 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Codex Vscode             6 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+iTerm2                   5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Terminal                 3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Mac                      51 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      55 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 31 mins (34.13%)
+⏱ AI Coding Time: 20 hrs 21 mins (36.36%)
 
-✍️ 7,840 lines written by AI, 275 lines written by hand (96.61% AI-written)
+✍️ 11,153 lines written by AI, 171 lines written by hand (98.49% AI-written)
 
-🔤 356,489,036 Input Tokens, 15,354,216 Output Tokens
+🔤 325,161,401 Input Tokens, 15,592,890 Output Tokens
 
-💵 $4152.51 Estimated AI Cost This Week
+💵 $6346.35 Estimated AI Cost This Week
 
-🧠 479 AI Sessions, 901 AI Prompts
+🧠 511 AI Sessions, 894 AI Prompts
 
-GPT                      7,150 lines         ██████████████████████░░░   89.57 % 
-OMP                      605 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Codex-Vscode             228 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      10,300 lines        ███████████████████████░░   90.98 % 
+OMP                      618 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Codex-Vscode             229 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Deepseek                 111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Codex-Cli                63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.61% of written lines came from AI
-📚 Verbose Prompter — average 1,807 characters per prompt
+🤖 AI-Driven — 98.49% of written lines came from AI
+📄 Detailed Prompter — average 1,464 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 5.99% of changed lines were hand-edited
+🚀 High AI Trust — 2.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 19:03:07 UTC
+ Last Updated on 28/08/2026 20:10:30 UTC
 <!--END_SECTION:waka-->
 
 ---
