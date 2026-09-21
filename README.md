@@ -22,17 +22,17 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 331.2 kB Used in GitHub's Storage 
+> 📦 332.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,124 Contributions in the Year 2026
+> 🏆 1,140 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,10 +43,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1312 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌆 Daytime                2715 commits        ████████████░░░░░░░░░░░░░   47.84 % 
-🌃 Evening                734 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-🌙 Night                  914 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🌞 Morning                1319 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+🌆 Daytime                2720 commits        ████████████░░░░░░░░░░░░░   47.79 % 
+🌃 Evening                738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌙 Night                  914 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 
 
@@ -56,51 +56,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    54 hrs 38 mins      ██████████████████░░░░░░░   73.03 % 
-Markdown                 14 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Python                   2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Java                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other                    58 hrs 27 mins      ███████████████████░░░░░░   75.66 % 
+Markdown                 13 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Python                   2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Java                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Text                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Edge                     22 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   30.30 % 
-MicrosoftEdge            15 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Antigravity              8 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-VS Code                  7 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-iTerm2                   7 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Edge                     22 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+MicrosoftEdge            15 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Antigravity              12 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+VS Code                  7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Hermes                   7 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 💻 Operating System: 
-Mac                      74 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      77 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 9 mins (22.94%)
+⏱ AI Coding Time: 14 hrs 40 mins (19.0%)
 
-✍️ 8,652 lines written by AI, 1,349 lines written by hand (86.51% AI-written)
+✍️ 4,197 lines written by AI, 1,144 lines written by hand (78.58% AI-written)
 
-🔤 261,776,042 Input Tokens, 7,184,679 Output Tokens
+🔤 235,202,364 Input Tokens, 6,479,277 Output Tokens
 
-💵 $1978.94 Estimated AI Cost This Week
+💵 $1669.32 Estimated AI Cost This Week
 
-🧠 202 AI Sessions, 644 AI Prompts
+🧠 186 AI Sessions, 531 AI Prompts
 
-GPT                      6,859 lines         ████████████████████░░░░░   79.38 % 
-Hermes                   1,252 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-OMP                      530 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+GPT                      2,349 lines         ██████████████░░░░░░░░░░░   56.86 % 
+Hermes                   1,252 lines         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+OMP                      530 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.51% of written lines came from AI
-📚 Verbose Prompter — average 2,003 characters per prompt
+🤖 AI-Driven — 78.58% of written lines came from AI
+📚 Verbose Prompter — average 2,244 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.6% of changed lines were hand-edited
+🚀 High AI Trust — 31.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 13:01:52 UTC
+ Last Updated on 21/09/2026 15:02:58 UTC
 <!--END_SECTION:waka-->
 
 ---
