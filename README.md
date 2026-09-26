@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C282%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2028%20mins-blue?style=flat)
 
@@ -30,9 +30,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 333.2 kB Used in GitHub's Storage 
+> 📦 333.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,172 Contributions in the Year 2026
+> 🏆 1,183 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,10 +43,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1345 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌆 Daytime                2758 commits        ████████████░░░░░░░░░░░░░   47.30 % 
-🌃 Evening                752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌙 Night                  976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+🌞 Morning                1347 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌆 Daytime                2766 commits        ████████████░░░░░░░░░░░░░   47.35 % 
+🌃 Evening                753 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+🌙 Night                  976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 ```
 
 
@@ -56,48 +56,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    60 hrs 37 mins      ██████████████████████░░░   88.11 % 
-Markdown                 7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    55 hrs 23 mins      █████████████████████░░░░   84.97 % 
+Markdown                 8 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Antigravity              15 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Edge                     15 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-MicrosoftEdge            10 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-iTerm2                   9 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Hermes                   9 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Antigravity              14 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Edge                     12 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Hermes                   9 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+VS Code                  9 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+MicrosoftEdge            9 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 
 💻 Operating System: 
-Mac                      68 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      65 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (1.84%)
-
-✍️ 256 lines written by AI, 561 lines written by hand (31.33% AI-written)
-
-🔤 16,513,753 Input Tokens, 253,060 Output Tokens
-
-💵 $99.96 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 78 AI Prompts
-
-Hermes                   256 lines           █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.33% of written lines came from AI
-📚 Verbose Prompter — average 4,211 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 81.13% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/09/2026 13:33:40 UTC
+ Last Updated on 26/09/2026 12:56:06 UTC
 <!--END_SECTION:waka-->
 
 ---
