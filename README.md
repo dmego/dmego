@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C311%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C311%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2028%20mins-blue?style=flat)
 
@@ -30,9 +30,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 352.3 kB Used in GitHub's Storage 
+> 📦 352.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,429 Contributions in the Year 2026
+> 🏆 1,437 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,10 +43,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1430 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌆 Daytime                2866 commits        ████████████░░░░░░░░░░░░░   46.59 % 
-🌃 Evening                834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌙 Night                  1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌞 Morning                1432 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌆 Daytime                2870 commits        ████████████░░░░░░░░░░░░░   46.60 % 
+🌃 Evening                836 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌙 Night                  1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 ```
 
 
@@ -56,21 +56,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 2 mins       ██████████████████████░░░   86.63 % 
-Markdown                 6 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Groff                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    40 hrs 15 mins      ███████████████████████░░   92.07 % 
+Markdown                 2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Io                       24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-MicrosoftEdge            18 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.54 % 
-Hermes                   11 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-iTerm2                   7 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-VS Code                  6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Edge                     6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+MicrosoftEdge            19 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.40 % 
+Hermes                   8 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+iTerm2                   7 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Antigravity              2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+VS Code                  2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Mac                      54 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +80,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/10/2026 13:43:36 UTC
+ Last Updated on 24/10/2026 12:36:36 UTC
 <!--END_SECTION:waka-->
 
 ---
